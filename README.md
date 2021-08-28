@@ -1,7 +1,7 @@
 Implementing CI/CD Workflow for training and deployment using Github + AWS.
 ---
 
-Services planning to use:
+Services:
 Name | Description
 -----|------------
 Github Actions | Test and Build containers
